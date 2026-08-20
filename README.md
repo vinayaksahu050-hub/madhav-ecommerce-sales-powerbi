@@ -17,3 +17,6 @@ Category analysis
 Sub-category profitability
 Quarter and State filters
 Interactive Power BI visualizations
+## Dashboard Preview
+
+![Madhav E-Commerce Sales Dashboard](Dashboard%20Preview.png)
